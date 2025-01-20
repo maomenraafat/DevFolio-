@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .hero-title {
+    font-size: 4.5rem;
+  }
+  .box-shadow-full {
+    padding: 3rem;
+  }
+}
